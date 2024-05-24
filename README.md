@@ -106,7 +106,7 @@ function burn (address address_ , uint values_) public{
 }
 ```
 
-To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.4" (or another compatible version), and then click on the "Compile file_name.sol" button.
+To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.25" (or another compatible version), and then click on the "Compile file_name.sol" button.
 
 Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "file_name" contract from the dropdown menu, and then click on the "Deploy" button.
 Then click on the bottom most section where your file is showing . Click on it and fill all the required information in it. Check whether you project works smoothly or not . 
